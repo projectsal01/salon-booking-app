@@ -1,0 +1,39 @@
+name: salon_booking_app
+description: A new salon booking app
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Firebase Core (required for initializing Firebase)
+  firebase_core: ^3.1.0
+
+  # Firebase Authentication
+  firebase_auth: ^5.5.0
+
+  # Cloud Firestore (Database)
+  cloud_firestore: ^5.4.0
+
+  # Optional: Firebase Storage (for profile pictures or salon images)
+  firebase_storage: ^12.1.0
+
+  # Optional: Firebase Messaging (for push notifications)
+  firebase_messaging: ^15.2.0
+
+  # Optional: Firebase Analytics
+  firebase_analytics: ^11.0.0
+
+  # Date formatting
+  intl: ^0.18.1
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "716434862825",
+    "project_id": "mysaloon-a4891",
+    "storage_bucket": "mysaloon-a4891.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716434862825:android:525e1f9b18dcfa4ea97678",
+        "android_client_info": {
+          "package_name": "com.budhsalon.booking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqNjKaw_d9GP76qk_Crp7Rnc0LqD7i4SM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716434862825:android:b41e00cd86d40205a97678",
+        "android_client_info": {
+          "package_name": "com.example.salon_booking_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqNjKaw_d9GP76qk_Crp7Rnc0LqD7i4SM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
