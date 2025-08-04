@@ -30,6 +30,9 @@ dependencies:
   # Date formatting
   intl: ^0.18.1
 
+  image_picker: ^1.1.0
+  google_fonts: ^6.1.0
+
 
 dev_dependencies:
   flutter_test:
